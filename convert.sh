@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="big-buck-bunny" # Output Path (Same will be pushed in main also)
-input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
+input_url="https://suntvvod.s.llnwi.net/movies/d765d5693ed0523297bb855f6b4ff674/112185/hd/112185_hd.mpd?e=1618425629&h=e65fcba8f2aba9a0eccdfd019c48d156&type=hd&ru=0&PlayBackId=1633968763&cid=112185&country=IN&userid=25336016&nid=0&q=4&bw=&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
